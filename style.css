@@ -68,6 +68,8 @@ input[type="number"]::-webkit-outer-spin-button {
     left: 0;
     z-index: 1;
     display: none;
+    overflow: auto;
+    height: 200px;
 }
 
 .dropdown .option{
